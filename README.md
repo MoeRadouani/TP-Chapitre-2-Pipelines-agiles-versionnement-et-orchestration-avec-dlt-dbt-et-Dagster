@@ -1,7 +1,5 @@
 # TP Chapitre 2 — Pipeline de données local
 
-> MLOps & DataOps | Pr. Mohammed AIT DAOUD
-
 Pipeline : `CSV → pandas → DuckDB → dbt → Dagster`
 
 ## Installation
